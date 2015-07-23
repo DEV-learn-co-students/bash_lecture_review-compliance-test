@@ -1,9 +1,3 @@
----
-tags: bash, command line, video
-language: bash
-format: video
----
-
 # Bash Lecture Review
 [MP4](http://flatiron-videos.s3.amazonaws.com/web-0415/Bash%20Review.mp4)
 
